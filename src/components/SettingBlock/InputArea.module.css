@@ -1,0 +1,14 @@
+.area {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+
+
+}
+
+.area span {
+    color: cyan;
+    margin-right: 100px;
+    font-size: 30px;
+
+}

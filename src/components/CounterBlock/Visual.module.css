@@ -1,0 +1,67 @@
+.visual {
+    border: 4px solid cyan;
+    border-radius: 10px;
+    margin: 20px;
+    width: 500px;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: cyan;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.visualNumber {
+    border: 4px solid cyan;
+    border-radius: 10px;
+    margin: 20px;
+    width: 500px;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: cyan;
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.visualNumberMax {
+    border: 4px solid cyan;
+    border-radius: 10px;
+    margin: 20px;
+    width: 500px;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 140px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.visualError {
+    border: 4px solid cyan;
+    border-radius: 10px;
+    margin: 20px;
+    width: 500px;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
